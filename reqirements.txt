@@ -1,0 +1,7 @@
+environs==8.0.0
+numpy==1.19.0
+pandas==1.0.5
+plotly==4.8.1
+psutil==5.7.0
+python-binance==0.7.5
+tqdm==4.46.1
